@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "../../mnt/c/Development/DjangoProjects/djangoblog/blog/static/css/example.css",
+	"sources": [
+		"../../mnt/c/Development/DjangoProjects/djangoblog/blog/static/css/example.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,CAAC,CAAC;EACE,KAAK,EAAE,OAAO,GACjB"
+}
