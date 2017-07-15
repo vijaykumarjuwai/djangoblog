@@ -1,2 +1,11 @@
-* {
-  color: #231777; }
+ul {
+  list-style-type: none; }
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+p {
+  margin: 1px 0; }
+
+.post {
+  margin: 10px 0; }

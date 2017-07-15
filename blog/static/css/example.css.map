@@ -5,5 +5,5 @@
 		"../../mnt/c/Development/DjangoProjects/djangoblog/blog/static/css/example.scss"
 	],
 	"names": [],
-	"mappings": "AAAA,AAAA,CAAC,CAAC;EACE,KAAK,EAAE,OAAO,GACjB"
+	"mappings": "AAAA,AAAA,EAAE,CAAC;EACC,eAAe,EAAE,IAAI,GACxB;;AAED,AAAA,EAAE,CAAC;EACC,WAAW,EAAE,wCAAwC,GACxD;;AAED,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,KAAK,GAChB;;AAED,AAAA,KAAK,CAAC;EACF,MAAM,EAAE,MAAM,GACjB"
 }
